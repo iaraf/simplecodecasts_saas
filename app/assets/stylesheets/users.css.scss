@@ -31,4 +31,25 @@
     box-shadow: 10px 10px 25px -2px rgba(97,97,97,1);
     border: 2px solid #fff;
     border-radius: 50%;
+    max-height: 150px;
+    max-width: 150px;
+}
+
+.well.white-bg {
+    background-color: #fff;
+}
+
+.user-index-avatar {
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    margin-top: 20px;
+}
+
+.index-job-title {
+    display: inline-block;
+}
+
+.index-job-title-text {
+    margin: 0;
 }
